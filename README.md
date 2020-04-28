@@ -2,6 +2,15 @@
 
 ## welcome to my tensor flow notes
 
+
+### additional notes
+
+https://chromium.googlesource.com/external/github.com/tensorflow/tensorflow/+/r0.7/tensorflow/g3doc/how_tos/variables/index.md
+
+https://chromium.googlesource.com/external/github.com/tensorflow/tensorflow/+/r0.7/tensorflow/g3doc/how_tos/variable_scope/index.md
+
+## notes
+
 tf.data - prefeered data streaming
 
 flow to get tf.Tensor from dataset:
